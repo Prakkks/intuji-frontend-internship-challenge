@@ -1,0 +1,40 @@
+:root {
+    /* colors */
+    --background-color: #FAFBFF; 
+    --color1 : #ABC8D2;
+    --gradient-start: #68BCDB;
+    --gradient-end: #C9E7F2;
+
+
+    
+
+    /* bottons- color */
+    --purple :#4F46BA;
+    --purple2 : #3734A9;
+    --green : #22D497;
+
+
+    /* text */
+    --orange : #E34826;
+    --dark: #181433;
+    --darkgrey :#3D3D3D;
+    --lightpurple1: #757095;
+    --lightpurple2 :#64607D;
+    --lightpurple3 : #505887;
+    --darkcream: #CFCFCF;
+    --blue: #002F86;
+    --skydark :#ABC8D2;
+    --yellow:#FFCC00; 
+
+
+  }
+
+
+*, *::after, *::before{
+    
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--background-color);
+}
