@@ -3,6 +3,10 @@ This project is a frontend UI built as part of the application process for **Int
 
 > **Note**: This project is **not responsive** and is primarily focused on demonstrating frontend structure and styling accuracy, rather than cross-device compatibility.
 
+### 🖥️ Recommended Screen Size
+
+For best viewing experience, use a desktop or laptop screen with a resolution of **1440×900** or higher.
+
 ### 🔗 Production Link
 
 You can view the live deployed version here: [View Live Project](https://intuji-frontend-internship-challenge-zeta.vercel.app/)
